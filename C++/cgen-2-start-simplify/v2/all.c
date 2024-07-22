@@ -1,0 +1,7 @@
+#include "algo/perm.c"
+#include "cont/queue.c"
+#include "cont/dlist.c"
+#include "cont/slist.c"
+#include "cont/tmap.c"
+#include "cont/vector.c"
+#include "utils/str.c"
