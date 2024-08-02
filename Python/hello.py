@@ -292,3 +292,4 @@ print(fruits)
 fruits[2] = "Strawberry"
 print(fruits)
 
+print(ord('a')) #tra ve gia tri ASCII cua ki tu
