@@ -26,7 +26,7 @@ print(re.search(r"[a-z]way", "What a way to go")) # lí do không tìm được 
 print(re.search("cloud[a-zA-Z0-9]", "cloudy")) #tim kiem chu cloud va sau do la chu hoac so
 print(re.search("cloud[a-zA-Z0-9]", "cloud9")) 
 print(re.search(r"[^a-zA-Z]", "This is a sentence with spaces."))
-print(re.search(r"[^a-zA-Z ]", "This is a sentence with spaces."))
+print(re.search(r"[^a-zA-Z ]", "This is a sentence with spaces.")) 
 
 print(re.search(r"cat|dog", "I like cats."))
 print(re.search(r"cat|dog", "I love dogs!"))

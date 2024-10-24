@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Code_dd985a2a"
+        },
+        {
+            "type": "java",
             "name": "Calculator",
             "request": "launch",
             "mainClass": "Calculator",
